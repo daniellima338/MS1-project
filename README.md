@@ -1,24 +1,21 @@
 # Ways
 
-One or two paragraphs providing an overview of your project.
-
-Essentially, this part is your sales pitch.
+This website was created for Ways to have an online presence, highlighting the projects we are creating and being a part of. Ways is a NGO engaged in Youth work, primarily focused on hosting and participating in Erasmus + Youth exchanges and training courses. Through the website people will be able to see who Ways are, what we have done and what people have experienced through the projects. The website is a fully responsive website build on the mobile first approach. The live website can be found here.
  
 ## 2. User Experience (UX)
  
- #### 2.1 User Stories
+ #### 2.1 business goals
+    - Ways aim to help youth meet people from all over the world through youth exchanges and training courses. Since 2015 Ways have created and participated in Youth projects, that have helped young people achieve and develop new goals. With a user friendly responsive website, Ways aim to reach a higher number of young people for future projects, as well as enlighten viewers about the possiblities within EU programs. 
 
- #### 2.2 The Five Planes Of UX 
+    - With the website Ways aims to make it easier for the user to access information about future projects, therefore making the way to participation faster and easier to access. 
 
-    - Strategi Plane 
+ #### 2.2 target audience
+    - The target audience are young people in the age of 18-30 that want to try and have a international experience. 
+    
+    - Secundary it is other youth organisations that want to work with us as partners on projects. 
 
-    - Scope Plane
-
-    - Structure Plane
-
-    - Skeleton Plane 
-
-    - Surface Plane
+ #### 2.3 User Stories
+    
 
 ## 3. Design
 
