@@ -50,10 +50,28 @@ This website was created for Ways to have an online presence, highlighting the p
  MS1 colour-pallet 3
 
  #### 3.2 Typography
+  "arvo" and "Cairo" are the two font-families chosen for this project. They can both be found at Google Fonts. 
 
  #### 3.3 Imagery
+ Images throughout the project will all be related to activities Ways have been conducting over the years. The imagery will be chosen by selecting images that are appealing, easy to the eye, but simultaneously show what kind of activities Ways stand for. 
 
  #### 3.4 Mockups
+ 
+ ###### Mobile wireframes:
+ [Homepage](wireframes/home.png)
+ [About](wireframes/about.png)
+ [gallery](wireframes/gallery.png)
+ [blogs](wireframes/blogs.png)
+
+ ###### Desktop wireframes: 
+ [Homepage](wireframes/home-desktop.png)
+ [About](wireframes/about-desktop.png)
+ [gallery](wireframes/gallery-desktop.png)
+ [blogs](wireframes/blogs-desktop.png)
+
+
+
+ 
 
 ## 4. Features
 
