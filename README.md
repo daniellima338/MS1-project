@@ -59,9 +59,12 @@ This website was created for Ways to have an online presence, highlighting the p
  
  ###### Mobile wireframes:
  [Homepage](wireframes/home.png)
+
  [About](wireframes/about.png)
- [gallery](wireframes/gallery.png)
- [blogs](wireframes/blogs.png)
+
+ [Gallery](wireframes/gallery.png)
+ 
+ [Blogs](wireframes/blogs.png)
 
  ###### Desktop wireframes: 
  [Homepage](wireframes/home-desktop.png)
