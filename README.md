@@ -15,11 +15,39 @@ This website was created for Ways to have an online presence, highlighting the p
     - Secundary it is other youth organisations that want to work with us as partners on projects. 
 
  #### 2.3 User Stories
+  ###### A first time visitor to this website, 
+   - I want to easily navigate around and have a navigation that is easily understood.
+   - I want a responsive website on any device, that gives me a good user experience. 
+   - I want to understand what the organsation is doing, and how it can contribute to what i am looking for. 
+   - I want to see other peoples experiences with the organisation and what they have gotten out of it.
+   - I want to understand what is demanded of me, if i make use of the organisation.
+   - I want to easily be able to contact the organisation, if i have any questions.
+   - I want to be able to see upcoming events, and what the project is about. 
+
+ ###### As a returning visitor, 
+   - I want to see how i can contribute to the organisation. 
+   - I want to quickly be able to see where i can sign up for a project. 
+   - I want to know who to contact if i will go into collaboration with the organisation.
+   - I want to be able to find pictures and stories from past projects, to see if it is something i fit into. 
+   - I want to find the organisations social media accounts, to keep up to date with any communication they are running. 
+
+ #### 2.4 Wireframes
+ The wireframes were created as a part of understanding the UX design of the webpage using Balsamic. The wireframes can be viewed here. 
+
+
     
 
 ## 3. Design
 
  #### 3.1 Colours
+ ![Colour-pallet](assets/ref-images/black-white.png)
+ MS1 colour-pallet 1
+
+ ![Colour-pallet](assets/ref-images/dark-green.png)
+ MS1 colour-pallet 2
+
+ ![Colour-pallet](assets/ref-images/orange.png)
+ MS1 colour-pallet 3
 
  #### 3.2 Typography
 
