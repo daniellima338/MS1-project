@@ -58,19 +58,16 @@ This website was created for Ways to have an online presence, highlighting the p
  #### 3.4 Mockups
  
  ###### Mobile wireframes:
- [Homepage](wireframes/home.png)
-
- [About](wireframes/about.png)
-
- [Gallery](wireframes/gallery.png)
- 
- [Blogs](wireframes/blogs.png)
+ - [Homepage](wireframes/home.png)
+ - [About](wireframes/about.png)
+ - [Gallery](wireframes/gallery.png)
+ - [Blogs](wireframes/blogs.png)
 
  ###### Desktop wireframes: 
- [Homepage](wireframes/home-desktop.png)
- [About](wireframes/about-desktop.png)
- [gallery](wireframes/gallery-desktop.png)
- [blogs](wireframes/blogs-desktop.png)
+ - [Homepage](wireframes/home-desktop.png)
+ - [About](wireframes/about-desktop.png)
+ - [gallery](wireframes/gallery-desktop.png)
+ - [blogs](wireframes/blogs-desktop.png)
 
 
 
