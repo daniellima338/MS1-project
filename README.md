@@ -40,10 +40,10 @@ This website was created for Ways to have an online presence, highlighting the p
 ## 3. Design
 
  #### 3.1 Colours
- ![Colour-pallet](../ms1-project/assests/ref-images/black-white.png)
+ ![Colour-pallet](assests/ref-images/black-white.png)
  MS1 colour-pallet 1
 
- ![Colour-pallet](../ms1-project/assests/ref-images/dark-green.png)
+ ![Colour-pallet](assests/ref-images/dark-green.png)
  MS1 colour-pallet 2
 
  ![Colour-pallet](assests/ref-images/orange.png)
