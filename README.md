@@ -35,8 +35,6 @@ This website was created for Ways to have an online presence, highlighting the p
  The wireframes were created as a part of understanding the UX design of the webpage using Balsamic. The wireframes can be viewed here. 
 
 
-    
-
 ## 3. Design
 
  #### 3.1 Colours
@@ -69,9 +67,6 @@ This website was created for Ways to have an online presence, highlighting the p
  - [gallery](wireframes/gallery-desktop.png)
  - [blogs](wireframes/blogs-desktop.png)
 
-
-
- 
 
 ## 4. Features
 
